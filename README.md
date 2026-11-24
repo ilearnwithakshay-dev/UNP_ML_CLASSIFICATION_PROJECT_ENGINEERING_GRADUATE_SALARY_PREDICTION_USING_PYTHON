@@ -13,13 +13,13 @@
 ### Interactive Notebook (Google Colab)
 
 * **Engineering Graduate Salary Prediction Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1X6i_SlH55yBLF67xRIojbeb1oklUVThB/view?usp=drive_link)
-  *Colab URL:* `https://drive.google.com/file/d/1X6i_SlH55yBLF67xRIojbeb1oklUVThB/view?usp=drive_link`
+  *Colab URL:* https://drive.google.com/file/d/1X6i_SlH55yBLF67xRIojbeb1oklUVThB/view?usp=drive_link
 
 ### Project Resources & Drive Links
 
-* **Project Presentation Link:** `https://docs.google.com/presentation/d/18XUGuDe5n2AG8k4HTQdcGuW6KK_xFALV/edit?usp=drive_link&ouid=108531411860157531016&rtpof=true&sd=true`
-* **Dataset Access Link:** `https://drive.google.com/file/d/1EFXYQi3xxT4_zzKoOGi2mXSZlNt1Z8sF/view?usp=drive_link`
-* **Dataset Details Link:** `https://docs.google.com/spreadsheets/d/1t4MYPEgIlkVdaB0ojwSB2ODDRaUimr5x/edit?usp=drive_link&ouid=108531411860157531016&rtpof=true&sd=true`
+* **Project Presentation Link:** https://docs.google.com/presentation/d/18XUGuDe5n2AG8k4HTQdcGuW6KK_xFALV/edit?usp=drive_link&ouid=108531411860157531016&rtpof=true&sd=true
+* **Dataset Access Link:** https://drive.google.com/file/d/1EFXYQi3xxT4_zzKoOGi2mXSZlNt1Z8sF/view?usp=drive_link
+* **Dataset Details Link:** https://docs.google.com/spreadsheets/d/1t4MYPEgIlkVdaB0ojwSB2ODDRaUimr5x/edit?usp=drive_link&ouid=108531411860157531016&rtpof=true&sd=true
 
 ---
 
